@@ -1,0 +1,17 @@
+{
+    "coord":{"lon":-58.9839,"lat":-27.4606},
+    "weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],
+    "base":"stations",
+    "main":{"temp":299.57,"feels_like":299.57,"temp_min":298.18,"temp_max":301.53,"pressure":1018,"humidity":48},
+    "visibility":10000,
+    "wind":{"speed":3.09,"deg":40},
+    "clouds":{"all":0},"dt":1668602638,
+    "sys":{"type":1,"id":8257,
+    "country":"AR",
+    "sunrise":1668588969,
+    "sunset":1668637531},
+    "timezone":-10800,
+    "id":3429577,
+    "name":"Resistencia",
+    "cod":200
+}
